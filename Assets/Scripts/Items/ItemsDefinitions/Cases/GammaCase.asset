@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86de2b430a72cab4ca18e686cc43cf5e, type: 3}
+  m_Name: GammaCase
+  m_EditorClassIdentifier: 
+  _displayName: Gamma Case
+  _description: Nice gamma case
+  _icon: {fileID: 21300000, guid: 45615de6746dfec4a97ef3f1d8d066cd, type: 3}
+  _itemType: 1
+  _costToBuy: 50
+  _costToSell: 40
+  _weaponDefinitions:
+  - {fileID: 11400000, guid: 9d0beaa5360e56944ba621259231a6bd, type: 2}
+  - {fileID: 11400000, guid: 1fb02b97c19aa3b4aad1b5ee26f8db91, type: 2}
+  - {fileID: 11400000, guid: 1d59310e43e8ce0468d18573d06f7cc5, type: 2}
+  - {fileID: 11400000, guid: f275d6572fa317048833c0d9887cb31f, type: 2}
+  - {fileID: 11400000, guid: 640cb747fcdc2474fb185cf4ff07d7cc, type: 2}
+  - {fileID: 11400000, guid: 835c0742fc489f24d8d3f51f200de0ea, type: 2}
